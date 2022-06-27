@@ -131,7 +131,8 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 #EXTINF:-1,HBO +
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-avc1_1499968=10009.m3u8
-
+#EXTINF:-1,HBO SIGNATURE
+https://edge3-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 
 #EXTINF:-1,HBO 2
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
