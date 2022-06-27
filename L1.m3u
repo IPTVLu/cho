@@ -30,7 +30,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal9hd/canal9hd_med/chunklist_w13864
 https://g3.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
 #EXTINF:-1, C5N
-
+https://edge3-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
 #EXTINF:-1, RT
 https://rt-esp.secure.footprint.net/1102_800Kb.m3u8
@@ -42,6 +42,7 @@ https://rt-esp.secure.footprint.net/1102_800Kb.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
 
 #EXTINF:-1, AM 24
+https://edge3-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 
 
 #EXTINF:-1, TN NOTICIAS
