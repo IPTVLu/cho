@@ -1,0 +1,178 @@
+#EXTM3U
+
+#EXTINF:-1, AMERICA TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+
+
+#EXTINF:-1,NUEVE
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+
+
+#EXTINF:-1,EL TRECE 
+https://cetl.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+
+#EXTINF:-1,TELEFE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059&=.m3u8
+
+
+#EXTINF:-1,RIO NEGRO
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+#EXTINF:-1,9 LITORAL
+https://59d52c5a5ce5e.streamlock.net:4443/canal9hd/canal9hd_med/chunklist_w1386464368.m3u8
+
+#EXTINF:-1, CRONICA TV
+https://g3.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+
+#EXTINF:-1, C5N
+https://e4.lsd-tv.com/45.175.149.229/Uv55n7jMdfsCuCjX/55252/webm&=.m3u8
+
+#EXTINF:-1, RT
+https://rt-esp.secure.footprint.net/1102_800Kb.m3u8
+
+#EXTINF:-1,ENCUENTRO
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+#EXTINF:-1,PUBLICA
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
+
+#EXTINF:-1, A24
+
+
+#EXTINF:-1, TN NOTICIAS
+
+
+#EXTINF:-1, CN23
+
+
+#EXTINF:-1, 26
+https://live-edge01.telecentro.net.ar/live/c26.smil/chunklist_w691225881_b1264000_sleng.m3u8
+
+#EXTINF:-1, NET TV
+https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?
+
+#EXTINF:-1,MAGAZINE
+https://g1.proy-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
+
+#EXTINF:-1,RTN
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
+ 
+#EXTINF:-1, TEC
+http://tec_tv.secure2.footprint.net/egress/bhandler/streamroot_lsd2latam/tec_tv/manifest.m3u8
+
+#EXTINF:-1,Telemax
+https://live-edge01.telecentro.net.ar/live/tlx.smil/chunklist_w1884158741_b1828000_sleng.m3u8
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,EL GOURMET
+
+
+
+#EXTINF:-1, CANAL RURAL 
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+
+
+#EXTINF:-1,ARGENTINISIMA
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947260_b1912000_sleng.m3u8
+ 
+
+#EXTINF:-1,MULTIVISION
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1, TYC SPORT
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+
+
+
+#EXTINF:-1,FOX SPORT
+
+
+#EXTINF:-1, ESPN
+
+
+
+#EXTINF:-1, ESPN 2
+
+
+#EXTINF:-1,TNT SPORT
+
+
+#EXTINF:-1,DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1, SPACE
+
+
+#EXTINF:-1, CINECANAL
+
+
+
+#EXTINF:-1, CINEMAX
+
+
+
+#EXTINF:-1,HBO
+https://e4.lsd-tv.com/45.175.149.229/Uv55n7jMdfsCuCjX/55201/webm&=.m3u8
+
+#EXTINF:-1,HBO +
+https://e4.lsd-tv.com/45.175.149.229/Uv55n7jMdfsCuCjX/55204/webm&=.m3u8
+
+#EXTINF:-1,HBO 2
+
+#EXTINF:-1,HBO PLUS
+
+#EXTINF:-1,HBO Mundi
+
+#EXTINF:-1,HBO Extreme
+
+#EXTINF:-1,HBO POP
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,PAKA PAKA
+
+
+#EXTINF: -1, DISNEY JUNIOR
+
+#EXTINF:-1,DISCOVERY KIDS
+
+#EXTINF:-1, 
+
+
+
+#EXTINF:-1,MUCH MUSIC
+
+#EXTINF:-1, 
+
+#EXTINF:-1, MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+
+#EXTINF:-1,RETRO
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1, VH1
+
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1,MTV
+https://edge2-hr.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+
+#EXTINF:-1,ROCK TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+
+#EXTINF:-1,MUSIC COUNTRY
+https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
+
+#EXTINF:-1,THE RETRO CHANNEL
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+
+
+
